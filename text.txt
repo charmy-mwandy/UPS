@@ -1,0 +1,10 @@
+I build a Delivery Tracking App with REACT NATIVE (building for iOS & Android!), l'll learn how to
+do the following in this build:
+
+👉 You’ll learn how to create a GraphQL backend directly connected to your Firebase Realtime database effortlessly with StepZen!
+👉 You’ll learn how to write robust React Native code with TypeScript!
+👉  Use React Native Navigation to navigate between screens including Nested Navigators AND Tab navigators!
+👉  Use Tailwind CSS with RN for awesome styling!
+👉  Use React Native Elements to elevate your app design!
+👉 You’ll even learn how to create your own Custom React Hooks!
+SO MUCH MORE!
